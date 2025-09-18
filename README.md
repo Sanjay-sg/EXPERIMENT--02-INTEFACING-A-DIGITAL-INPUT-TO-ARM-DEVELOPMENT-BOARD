@@ -1,4 +1,4 @@
-# EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD
+# EXPERIMENT 02 INTEFACING A DIGITAL INPUT TO ARM DEVELOPMENT BOARD
 ```
 NAME: SANJAY G
 REG.NO: 212222230131
@@ -149,8 +149,10 @@ void Error_Handler(void)
 
 
 ## Output  :
-![alt text](image.png)
- ![alt text](image-1.png)
+![WhatsApp Image 2025-09-18 at 13 41 45_c0e44d6d](https://github.com/user-attachments/assets/e0ac3dad-ea83-419e-9120-a0ad7b5cd4ff)
+![WhatsApp Image 2025-09-18 at 13 41 45_c31d2109](https://github.com/user-attachments/assets/f4aa71fd-69f9-4f67-a123-d54eb0899939)
+
+
 ## layout of the circuit 
  ![alt text](image-2.png)
 ## Result :
